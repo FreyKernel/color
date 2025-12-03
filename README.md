@@ -20,11 +20,11 @@ package main
 
 import (
   "fmt"
-  "github.com/theFr3Y/color"
+  "github.com/FreyKernel/color"
 )
 
 func main() {
-  fmt.Println(color.LightYellow + "Hello world")
+  fmt.Println(color.LightYellow + "Hello, world!")
 }
 ````
 ## All of colors:
