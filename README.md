@@ -11,7 +11,7 @@ Using this package you can color the text of your console environment in Golang 
 ```go
 // open the project you want
 go mod init theFr3Y
-go get -u github.com/theFr3Y/color
+go get -u github.com/FreyKernel/color
 
 ```
 ## How to Use
